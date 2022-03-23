@@ -1,0 +1,63 @@
+body {
+    background-color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    background-color: gray;
+}
+
+h2 {
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightcoral;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#leiras {
+    background-color: lightgray;
+}
+
+#jatek {
+    background-color: lightgray;
+    padding:18px 0px;
+}
+
+#mod {
+    background-color: lightgray;
+}
+
+#mechanika {
+    background-color: lightgray;
+}
+
+#veg {
+    text-align: center;
+    font-weight: 100;
+    border: 1px solid black;
+    background-color: gold;
+    font-size: 20px;
+}
+
+.logo {
+    float: right;
+    position: relative; bottom: 34px;
+    resize: 80px;
+}
+
+.gameplay {
+    float: right;
+    position: relative; bottom: 18px;
+}
+
+li {
+    list-style: none;
+    line-height: 2;
+}
+
+ul {
+    font-weight: bold;
+}
