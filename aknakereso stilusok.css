@@ -1,6 +1,8 @@
 body {
     background-color: #466365;
     border-bottom:500px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 div {
     background-color:  #b49a67;
