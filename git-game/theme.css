@@ -1,0 +1,57 @@
+body {
+    background-image: url('bg.jpg');
+    background-attachment:  fixed;
+    margin: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 100%;
+}
+#box {
+    width: 960px;
+    background-color: #b3aca5;
+    margin: 0 auto;
+    padding:10px;
+}
+nav {
+    background-color: #7984e7;
+    padding: 3px;
+    text-align: center;
+    position: fixed;
+    bottom: auto;
+}
+nav li {
+    display: inline;
+    padding: 0 20px;
+}
+main {
+    float: left;
+    width: 580px;
+    padding: 5px;
+    margin: 0;
+}
+aside {
+    float: left;
+}
+figure {
+    margin: 10px 0;
+}
+footer {
+    clear: both;
+}
+.gun {
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+.text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 0;
+    padding: 10px;
+    text-align: center;
+    color: #fbff00;
+    display: none;
+}
